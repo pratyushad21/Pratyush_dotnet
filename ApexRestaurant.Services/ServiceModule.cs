@@ -1,4 +1,4 @@
-//using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection;
 using ApexRestaurant.Services.SCustomer;
 
 namespace ApexRestaurant.Services
@@ -11,8 +11,4 @@ services.AddTransient<ICustomerService, CustomerService>();
 }
 }
 
-    public interface IServiceCollection
-    {
-        void AddTransient<T1, T2>();
     }
-}
