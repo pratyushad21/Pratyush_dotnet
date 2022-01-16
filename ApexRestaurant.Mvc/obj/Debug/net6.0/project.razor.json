@@ -16298,6 +16298,11 @@
   "RootNamespace": "ApexRestaurant.Mvc",
   "Documents": [
     {
+      "FilePath": "d:\\Apex\\7th Sem\\Dot Net Technology\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\Customer\\Edit.cshtml",
+      "TargetPath": "Views\\Customer\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Apex\\7th Sem\\Dot Net Technology\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -16335,6 +16340,16 @@
     {
       "FilePath": "d:\\Apex\\7th Sem\\Dot Net Technology\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Apex\\7th Sem\\Dot Net Technology\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\Customer\\Create.cshtml",
+      "TargetPath": "Views\\Customer\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Apex\\7th Sem\\Dot Net Technology\\ApexRestaurant\\ApexRestaurant.Mvc\\Views\\Customer\\Index.cshtml",
+      "TargetPath": "Views\\Customer\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

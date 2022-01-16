@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Repository", "ApexRestaurant.Repository\ApexRestaurant.Repository.csproj", "{B3ECFF5E-679C-42EB-B52A-39C7BA8A2622}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Repository", "ApexRestaurant.Repository\ApexRestaurant.Repository.csproj", "{78A441FD-50C6-4568-AD3B-BDBDA28245A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Services", "ApexRestaurant.Services\ApexRestaurant.Services.csproj", "{9F4FC228-D64A-4557-AF30-CD0D6038216E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Services", "ApexRestaurant.Services\ApexRestaurant.Services.csproj", "{FBD1D331-C33F-4820-83C4-5F24706112A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Api", "ApexRestaurant.Api\ApexRestaurant.Api.csproj", "{A767B7BF-7843-44B9-9916-6E526267ED58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Api", "ApexRestaurant.Api\ApexRestaurant.Api.csproj", "{0EA3549E-8F0E-47BB-A2A1-6903D0533A66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Mvc", "ApexRestaurant.Mvc\ApexRestaurant.Mvc.csproj", "{80C4C195-3A52-429A-872A-7EAD8EF6275C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Mvc", "ApexRestaurant.Mvc\ApexRestaurant.Mvc.csproj", "{7B7BEE66-3142-4270-84AD-1CC7C13FEA74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,21 +20,21 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B3ECFF5E-679C-42EB-B52A-39C7BA8A2622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B3ECFF5E-679C-42EB-B52A-39C7BA8A2622}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B3ECFF5E-679C-42EB-B52A-39C7BA8A2622}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B3ECFF5E-679C-42EB-B52A-39C7BA8A2622}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F4FC228-D64A-4557-AF30-CD0D6038216E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F4FC228-D64A-4557-AF30-CD0D6038216E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F4FC228-D64A-4557-AF30-CD0D6038216E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F4FC228-D64A-4557-AF30-CD0D6038216E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A767B7BF-7843-44B9-9916-6E526267ED58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A767B7BF-7843-44B9-9916-6E526267ED58}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A767B7BF-7843-44B9-9916-6E526267ED58}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A767B7BF-7843-44B9-9916-6E526267ED58}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80C4C195-3A52-429A-872A-7EAD8EF6275C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80C4C195-3A52-429A-872A-7EAD8EF6275C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80C4C195-3A52-429A-872A-7EAD8EF6275C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80C4C195-3A52-429A-872A-7EAD8EF6275C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A441FD-50C6-4568-AD3B-BDBDA28245A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A441FD-50C6-4568-AD3B-BDBDA28245A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A441FD-50C6-4568-AD3B-BDBDA28245A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A441FD-50C6-4568-AD3B-BDBDA28245A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD1D331-C33F-4820-83C4-5F24706112A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD1D331-C33F-4820-83C4-5F24706112A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD1D331-C33F-4820-83C4-5F24706112A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD1D331-C33F-4820-83C4-5F24706112A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA3549E-8F0E-47BB-A2A1-6903D0533A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA3549E-8F0E-47BB-A2A1-6903D0533A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA3549E-8F0E-47BB-A2A1-6903D0533A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA3549E-8F0E-47BB-A2A1-6903D0533A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7BEE66-3142-4270-84AD-1CC7C13FEA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7BEE66-3142-4270-84AD-1CC7C13FEA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7BEE66-3142-4270-84AD-1CC7C13FEA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7BEE66-3142-4270-84AD-1CC7C13FEA74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

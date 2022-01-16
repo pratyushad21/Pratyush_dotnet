@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-ApexRestaurant.Mvc-CDE2776B-A5E4-4091-9798-DBDB1B430456</UserSecretsId>
+    <UserSecretsId>aspnet-ApexRestaurant.Mvc-C0E99A0A-721E-451D-B4B4-1C634B69EFEB</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,6 +17,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.Net.Http.Formatting.dll" Version="5.2.3" />
   </ItemGroup>
 
 </Project>
